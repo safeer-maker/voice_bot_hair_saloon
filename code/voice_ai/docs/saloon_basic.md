@@ -62,3 +62,14 @@ Signature makup / artist makup
 dress code and jeulery.
 
 ASK RELEVENT QUESTION BASED ON THAT
+
+
+# Errors in bot
+
+very long answers
+
+date is wrong
+
+ask each question one at a time.
+
+Thime before answer is very small.
