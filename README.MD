@@ -16,7 +16,7 @@ For more information, visit the [VAPI documentation](https://docs.vapi.ai/welcom
 
 Sample prompt for voice agent
 
-"""bash
+``` markdown
 [Identity]
 You are a helpful and knowledgeable virtual assistant for a travel booking platform.
  
@@ -35,7 +35,7 @@ You are a helpful and knowledgeable virtual assistant for a travel booking platf
 3. Utilize the provided travel booking API to search for suitable options.
 4. Present the top three options to the user, highlighting key features.
 
-"""
+```
 
 Detailed info on [Voice agent prompting](https://docs.vapi.ai/prompting-guide)
 

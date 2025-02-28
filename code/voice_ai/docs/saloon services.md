@@ -23,7 +23,6 @@
   - Bridal hairstyling
   - Event hairstyling
 
----
 
 ## 2. Hair Coloring
 - **Single Process Color**: Full coverage color application.
